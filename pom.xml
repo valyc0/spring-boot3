@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.bootify</groupId>
     <artifactId>my-app</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>my-app</name>
 
     <properties>
